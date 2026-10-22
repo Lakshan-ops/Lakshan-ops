@@ -1,84 +1,78 @@
-# 👋 Hi, I'm Lakshan Gamage
+<h1 align="center">Lakshan Gamage</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Aspiring+Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <strong>Information Technology Student · Full-Stack Development</strong>
 </p>
 
-## 💫 About Me
-
-🎓 Information Technology Student (University of Sri Jayewardenepura)
-
-💻 Passionate about Full-Stack Development
-
-🚀 Building modern, responsive, and user-friendly web applications
-
-🌱 Currently learning ASP.NET Core, React, .NET MAUI, and Cloud Technologies
-
-🎯 Interested in Software Engineering, UI/UX, and Problem Solving
-
-⚡ Turning ideas into real-world software through code.
+<p align="center">
+  <a href="https://github.com/Lakshan-ops"><img src="https://img.shields.io/badge/GitHub-Lakshan--ops-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Lakshan on GitHub" /></a>
+  <img src="https://img.shields.io/badge/Focus-Web_Development-0891B2?style=for-the-badge" alt="Focus: Web Development" />
+  <img src="https://img.shields.io/badge/Learning-Always-7C3AED?style=for-the-badge" alt="Always learning" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About me
+
+Information Technology student at the University of Sri Jayewardenepura, interested in full-stack development and practical software engineering.
+
+I enjoy learning how applications work, from the interface people use to the services and databases behind it. I’m developing my skills through study and practical work, with an interest in clear interfaces and useful software.
+
+## Technical background
+
+The technologies I’m working with and learning include:
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend and application development
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Databases
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## Current focus
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+- Deepening my understanding of React, Next.js, and ASP.NET Core
+- Exploring application development with .NET MAUI
+- Learning cloud computing and development workflows
+- Improving my understanding of software design, databases, and problem solving
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+## Interests
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+I’m interested in full-stack web development, UI/UX, and building applications that address practical needs. As I continue learning, I’d like to collaborate on projects and contribute to open source.
 
----
+## Get in touch
 
-## 🎯 Current Goals
-
-- 🚀 Become a Professional Full-Stack Developer
-- 📚 Learn Cloud Computing & DevOps
-- 💼 Build real-world software projects
-- 🌍 Contribute to Open Source
-- ✨ Keep learning every day
-
----
-
-
-
----
+I welcome conversations about software development, student projects, and opportunities to learn or collaborate. You can contact me through the details on my GitHub profile.
 
 <p align="center">
-  
-### 💡 "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
-
+  <a href="https://github.com/Lakshan-ops?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
